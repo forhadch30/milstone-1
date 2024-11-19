@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "product_title": "Gaming Laptop",
+        "img": "https://t4.ftcdn.net/jpg/08/60/14/17/240_F_860141715_HNXdezaC66ZKqDcj6rrJFRDltLFGTyfu.jpg",
+        "category": "Laptop",
+        "price": 90,
+        "description": "High-performance gaming laptop with advanced cooling and powerful GPU.",
+        "specification": [
+            "Intel i7 Processor",
+            "16GB RAM",
+            "512GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "slug": 1
+    },
+    {
+        "id": 2,
+        "product_title": "Smartphone Pro Max",
+        "img": "https://t3.ftcdn.net/jpg/06/48/45/72/240_F_648457269_faqSiPImDl1Rmid3S18KN324h0rku5Mu.jpg",
+        "category": "Phone",
+        "price": 129,
+        "description": "Top-end smartphone with ultra-clear display and advanced cameras.",
+        "specification": [
+            "5G Support",
+            "256GB Storage",
+            "OLED Display"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "slug": 2
+    },
+    {
+        "id": 3,
+        "product_title": "Apple Watch Series 7",
+        "img": "https://t3.ftcdn.net/jpg/10/33/64/50/240_F_1033645022_ncG8OQFAvU86cPiSRWGhcHFnDOSu1brN.jpg",
+        "category": "Smart Watches",
+        "price": 54,
+        "description": "Next-gen smartwatch with fitness tracking and ECG monitoring.",
+        "specification": [
+            "GPS",
+            "Heart Rate Monitor",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.7,
+        "slug": 3
+    },
+    {
+        "id": 4,
+        "product_title": "MacBook Pro 14",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGFbP1qn6BFTMjKwnbYDDuK5pnRref2dscQ&s",
+        "category": "MacBook",
+        "price": 79,
+        "description": "High-performance MacBook Pro with M1 chip for professionals.",
+        "specification": [
+            "Apple M1 Chip",
+            "16GB RAM",
+            "1TB SSD"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "slug": 4
+    },
+    {
+        "id": 5,
+        "product_title": "iPhone 14 Pro",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2pwWCEu1Zem71oUGCWr9TQIUhW-K3za7cng&s",
+        "category": "Iphone",
+        "price": 99,
+        "description": "Latest iPhone with advanced camera features and smooth performance.",
+        "specification": [
+            "128GB Storage",
+            "Face ID",
+            "Super Retina Display"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "slug": 5
+    },
+    {
+        "id": 6,
+        "product_title": "Bluetooth Earbuds",
+        "img": "https://t3.ftcdn.net/jpg/08/82/49/18/240_F_882491840_sSgLguCeP4Liemp0Xz1KoM4SKvV6yep8.jpg",
+        "category": "Accessories",
+        "price": 29,
+        "description": "Compact and convenient wireless earbuds with noise cancellation.",
+        "specification": [
+            "Bluetooth 5.1",
+            "Up to 5 hours playback",
+            "Water-resistant"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "slug": 6
+    },
+    {
+        "id": 7,
+        "product_title": "Laptop Cooling Pad",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3glyyJnfgagKlbKj0lEYR--RYeiHdlX76rhPkIdgL3l3WjT43VyrRqGY&s",
+        "category": "Laptop",
+        "price": 78,
+        "description": "Effective cooling pad for laptops with adjustable fan speed.",
+        "specification": [
+            "Adjustable Fan Speed",
+            "USB Powered",
+            "Ergonomic Design"
+        ],
+        "availability": true,
+        "rating": 4.4,
+        "slug": 7
+    },
+    {
+        "id": 8,
+        "product_title": "Fitness Tracker Smart Watch",
+        "img": "https://t4.ftcdn.net/jpg/04/80/17/75/240_F_480177573_GsQurvEh9YGKEmIBQr8hL5X2ssBPU1OQ.jpg",
+        "category": "Smart Watches",
+        "price": 79,
+        "description": "Smartwatch with fitness tracking, sleep monitoring, and notifications.",
+        "specification": [
+            "Step Counter",
+            "Heart Rate Monitor",
+            "Water Resistant"
+        ],
+        "availability": true,
+        "rating": 4.5,
+        "slug": 8
+    },
+    {
+        "id": 9,
+        "product_title": "MacBook Air 13",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHNQEZDCM-3RJ0tjMlZH0oZYCs5O8pqO4muw&s",
+        "category": "MacBook",
+        "price": 99,
+        "description": "Lightweight MacBook with exceptional battery life and performance.",
+        "specification": [
+            "Apple M1 Chip",
+            "8GB RAM",
+            "256GB SSD"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "slug": 9
+    },
+    {
+        "id": 10,
+        "product_title": "iPhone 13 Mini",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBM9THAYjFfXcX6g3SIRpy50CCWYAT4cCQCw&s",
+        "category": "Iphone",
+        "price": 69,
+        "description": "Compact iPhone model with all essential features and superb camera.",
+        "specification": [
+            "64GB Storage",
+            "Face ID",
+            "Dual-camera System"
+        ],
+        "availability": true,
+        "rating": 4.3,
+        "slug": 10
+    },
+    {
+        "id": 11,
+        "product_title": "Bluetooth Keyboard",
+        "img": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGJsdWV0b290aHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Accessories",
+        "price": 129,
+        "description": "Universal phone charger stand compatible with fast charging.",
+        "specification": [
+            "Fast Charging",
+            "Non-slip Base",
+            "Adjustable"
+        ],
+        "availability": true,
+        "rating": 4.2,
+        "slug": 11
+    },
+    {
+        "id": 12,
+        "product_title": "Foldable Bluetooth Keyboard",
+        "img": "https://images.unsplash.com/photo-1550009158-9ebf69173e03?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGJsdWV0b290aHxlbnwwfHwwfHx8MA%3D%3D",
+        "category": "Accessories",
+        "price": 99,
+        "description": "Compact foldable Bluetooth keyboard, ideal for travel.",
+        "specification": [
+            "Bluetooth 5.0",
+            "Foldable Design",
+            "Rechargeable Battery"
+        ],
+        "availability": false,
+        "rating": 4.0,
+        "slug": 12
+    }
+]

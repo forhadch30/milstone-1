@@ -12,6 +12,7 @@ const Footer = () => {
                     <p>Order Tracking</p>
                     <p>Shipping & Delivery</p>
                     <p>Returns</p>
+                    <p>Services</p>
                 </div>
                 <div className="space-y-2 text-gray-600">
                     <h2 className="text-xl font-semibold">Contact</h2>
